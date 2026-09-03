@@ -15,6 +15,20 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Suapage — Seu próximo cliente começa aqui",
   description: "Sites e experiências digitais que fazem sua marca ser percebida, entendida e escolhida.",
+  metadataBase: new URL("https://suapage.saratech.chatgpt.site"),
+  keywords: ["criação de sites", "site institucional", "landing page", "landing page de serviço", "site de vendas", "Suapage"],
+  openGraph: {
+    title: "Suapage — Seu próximo cliente começa aqui",
+    description: "Sites e experiências digitais que fazem sua marca ser percebida, entendida e escolhida.",
+    url: "https://suapage.saratech.chatgpt.site",
+    siteName: "Suapage",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Suapage — Seu próximo cliente começa aqui",
+    description: "Sites e experiências digitais para apresentar, vender e crescer.",
+  },
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
