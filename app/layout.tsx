@@ -11,6 +11,7 @@ import "./bio-accessory-icons.css";
 import "./header-polish.css";
 import "./home-flow.css";
 import "./hero-motion.css";
+import "./hero-browser-cards.css";
 import "./material-icons.css";
 import "./material-icons-fix.css";
 import "./bio-carousel-label.css";
