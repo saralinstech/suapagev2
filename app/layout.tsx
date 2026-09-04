@@ -15,6 +15,7 @@ import "./material-icons.css";
 import "./material-icons-fix.css";
 import "./bio-carousel-label.css";
 import "./bio-carousel-alignment.css";
+import "./bio-carousel-eyebrow-align.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
