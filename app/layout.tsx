@@ -7,6 +7,7 @@ import "./bio-icons.css";
 import "./bio-carousel.css";
 import "./bio-group-carousel.css";
 import "./bio-carousel-polish.css";
+import "./bio-accessory-icons.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
