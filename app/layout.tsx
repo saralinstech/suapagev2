@@ -14,6 +14,7 @@ import "./hero-motion.css";
 import "./hero-browser-cards.css";
 import "./hero-browser-cards-v2.css";
 import "./hero-browser-cards-v3.css";
+import "./hero-browser-controls.css";
 import "./material-icons.css";
 import "./material-icons-fix.css";
 import "./bio-carousel-label.css";
