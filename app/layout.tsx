@@ -12,6 +12,7 @@ import "./header-polish.css";
 import "./home-flow.css";
 import "./hero-motion.css";
 import "./material-icons.css";
+import "./material-icons-fix.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
