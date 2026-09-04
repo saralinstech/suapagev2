@@ -9,6 +9,7 @@ import "./bio-group-carousel.css";
 import "./bio-carousel-polish.css";
 import "./bio-accessory-icons.css";
 import "./header-polish.css";
+import "./home-flow.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
