@@ -4,6 +4,7 @@ import "./globals.css";
 import "./bio-overrides.css";
 import "./bio-editorial.css";
 import "./bio-icons.css";
+import "./bio-carousel.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
