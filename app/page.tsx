@@ -10,9 +10,9 @@ const solutions = [
 ];
 
 const packages = [
-  { name: "Landing de Serviço", note: "Para transformar visitas em contatos", price: "a partir de R$ 2.500", accent: "mint", items: ["Oferta clara e persuasiva", "Design responsivo", "WhatsApp e formulário"] },
-  { name: "Landing de Produto", note: "Para vender um produto digital", price: "a partir de R$ 2.500", accent: "violet", items: ["Estrutura de conversão", "Apresentação da oferta", "Botão para compra"] },
-  { name: "Site Institucional", note: "Para apresentar sua empresa", price: "a partir de R$ 4.000", accent: "blue", items: ["Páginas sob medida", "Serviços, equipe e contato", "SEO e alta performance"] },
+  { name: "Landing de Serviço", note: "Para transformar visitas em contatos", price: "a partir de R$ 1.800", accent: "mint", items: ["Oferta clara e persuasiva", "Design responsivo", "WhatsApp e formulário"] },
+  { name: "Landing de Produto", note: "Para vender um produto digital", price: "a partir de R$ 2.200", accent: "violet", items: ["Estrutura de conversão", "Apresentação da oferta", "Botão para compra"] },
+  { name: "Site Institucional", note: "Para apresentar sua empresa", price: "a partir de R$ 3.500", accent: "blue", items: ["Páginas sob medida", "Serviços, equipe e contato", "SEO e alta performance"] },
 ];
 
 const examples = [
