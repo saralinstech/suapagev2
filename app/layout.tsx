@@ -13,6 +13,7 @@ import "./home-flow.css";
 import "./hero-motion.css";
 import "./material-icons.css";
 import "./material-icons-fix.css";
+import "./bio-carousel-label.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
