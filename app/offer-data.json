@@ -1,0 +1,73 @@
+{
+  "service": {
+    "id": "servico",
+    "name": "Landing de Serviço",
+    "note": "Para transformar interesse em pedidos de orçamento",
+    "price": 1800,
+    "limit": "1 página · até 8 seções",
+    "accent": "mint",
+    "sections": [
+      "Apresentação do serviço e convite para contato",
+      "Para quem é e quais necessidades atende",
+      "Serviços e benefícios",
+      "Como funciona o atendimento",
+      "Sobre o profissional ou a empresa",
+      "Depoimentos reais ou demonstração do trabalho",
+      "Dúvidas frequentes",
+      "Contato e próximo passo"
+    ],
+    "items": [
+      "Textos escritos pela Suapage",
+      "Design personalizado para celular e computador",
+      "WhatsApp + formulário simples de contato",
+      "SEO inicial e otimização de carregamento"
+    ]
+  },
+  "product": {
+    "id": "produto",
+    "name": "Landing de Produto",
+    "note": "Para explicar sua oferta e conduzir até a compra",
+    "price": 2200,
+    "limit": "1 página · até 10 seções",
+    "accent": "violet",
+    "sections": [
+      "Oferta principal e chamada para compra",
+      "Para quem é o produto",
+      "Benefícios e transformação proposta",
+      "O que está incluído: módulos, conteúdo ou entregáveis",
+      "Como funciona o acesso ou a utilização",
+      "Sobre quem criou o produto",
+      "Depoimentos reais ou demonstração do produto",
+      "Preço, condições e bônus existentes",
+      "Dúvidas frequentes e condições de garantia informadas pelo cliente",
+      "Chamada final para o checkout"
+    ],
+    "items": [
+      "Textos completos de apresentação e venda",
+      "Design personalizado para celular e computador",
+      "Botões para um checkout externo existente",
+      "SEO inicial e otimização de carregamento"
+    ]
+  },
+  "institutional": {
+    "id": "empresa",
+    "name": "Site Institucional",
+    "note": "Para apresentar sua empresa e seus serviços com confiança",
+    "price": 3500,
+    "limit": "Até 5 páginas · até 20 seções no total",
+    "accent": "blue",
+    "sections": [
+      "Início: apresentação, destaques e próximos passos",
+      "Sobre: história, equipe e diferenciais comprovados",
+      "Serviços: visão geral do que a empresa oferece",
+      "Portfólio ou perguntas frequentes, conforme os materiais disponíveis",
+      "Contato: canais de atendimento, formulário e localização, quando aplicável"
+    ],
+    "items": [
+      "Textos de todas as páginas escritos pela Suapage",
+      "Design personalizado para celular e computador",
+      "WhatsApp + formulário simples de contato",
+      "SEO inicial por página e otimização de carregamento"
+    ]
+  }
+}

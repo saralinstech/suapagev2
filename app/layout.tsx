@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import "./bio-overrides.css";
 import "./bio-editorial.css";
@@ -21,25 +20,16 @@ import "./bio-carousel-label.css";
 import "./bio-carousel-alignment.css";
 import "./bio-carousel-eyebrow-align.css";
 import "./bio-final-copy.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+import "./offer-refinement.css";
 
 export const metadata: Metadata = {
   title: "Suapage — Seu próximo cliente começa aqui",
-  description: "Sites e experiências digitais que fazem sua marca ser percebida, entendida e escolhida.",
+  description: "Sites e landing pages com textos, design e publicação. Até duas revisões e 30 dias de pequenos ajustes após a entrega.",
   metadataBase: new URL("https://suapage.saratech.chatgpt.site"),
   keywords: ["criação de sites", "site institucional", "landing page", "landing page de serviço", "site de vendas", "Suapage"],
   openGraph: {
     title: "Suapage — Seu próximo cliente começa aqui",
-    description: "Sites e experiências digitais que fazem sua marca ser percebida, entendida e escolhida.",
+    description: "Sites e landing pages com textos, design e publicação. Até duas revisões e 30 dias de pequenos ajustes após a entrega.",
     url: "https://suapage.saratech.chatgpt.site",
     siteName: "Suapage",
     type: "website",
@@ -62,11 +52,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-BR">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
