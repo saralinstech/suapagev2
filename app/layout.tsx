@@ -25,12 +25,12 @@ import "./offer-refinement.css";
 export const metadata: Metadata = {
   title: "Suapage — Seu próximo cliente começa aqui",
   description: "Sites e landing pages com textos, design e publicação. Até duas revisões e 30 dias de pequenos ajustes após a entrega.",
-  metadataBase: new URL("https://suapage.saratech.chatgpt.site"),
+  metadataBase: new URL("https://suapagev2.vercel.app"),
   keywords: ["criação de sites", "site institucional", "landing page", "landing page de serviço", "site de vendas", "Suapage"],
   openGraph: {
     title: "Suapage — Seu próximo cliente começa aqui",
     description: "Sites e landing pages com textos, design e publicação. Até duas revisões e 30 dias de pequenos ajustes após a entrega.",
-    url: "https://suapage.saratech.chatgpt.site",
+    url: "https://suapagev2.vercel.app",
     siteName: "Suapage",
     type: "website",
   },

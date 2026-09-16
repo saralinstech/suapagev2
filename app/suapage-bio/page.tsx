@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { BioProductPage } from "../bio/page";
 
-const siteUrl = "https://suapage.saratech.chatgpt.site";
+const siteUrl = "https://suapagev2.vercel.app";
 
 export const metadata: Metadata = {
   title: "Suapage Bio — Sua marca inteira em um único link",

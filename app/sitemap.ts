@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const siteUrl = "https://suapage.saratech.chatgpt.site";
+const siteUrl = "https://suapagev2.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
